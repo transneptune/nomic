@@ -39,7 +39,9 @@ If a rule is repealed and reenacted, it receives the number of the proposal to r
 
 ## Mutable Rules
 
-**112.** The state of affairs that constitutes winning may not be altered from achieving n points to any other state of affairs. The magnitude of n and the means of earning points may be changed, and rules that establish a winner when play cannot continue may be enacted and (while they are mutable) be amended or repealed.
+**303.** The state of affairs that constitutes winning may not be altered from achieving n points to any other state of affairs. The magnitude of n and the means of earning points may be changed, and rules that establish a winner when play cannot continue may be enacted and (while they are mutable) be amended or repealed.
+
+(Formerly Rule **112**.)
 
 **201.** Players shall alternate in clockwise order, taking one whole turn apiece. Turns may not be skipped or passed, and parts of turns may not be omitted. All players begin with zero points.
 
@@ -57,7 +59,9 @@ In mail and computer games, instead of throwing a die, players subtract 291 from
 
 **207.** Each player always has exactly one vote.
 
-**208.** The winner is the first player to achieve 100,000 points.
+**302.** The winner is the first player to achieve 100,000 points.
+
+(Formerly rule **208**.)
 
 **209.** At no time may there be more than 25 mutable rules.
 
@@ -88,10 +92,6 @@ This rule takes precedence over every other rule determining the winner.
 ## Rule Changes
 
 **301.** WHEREAS we are using GitHub to track our rules, and WHEREAS Git is really awesome, rules may be moved and renumbered in this document so as to make the current form of the document read easily and coherently. This will not risk losing any historical information, while increasing legibility.
-
-**302.** The winning number of points in rule **208** shall be raised to 100,000 points.
-
-**303.** Rule **112** shall be made mutable.
 
 **304.** In order to build the best rules possible, each player shall enter a statement of purpose into the repository as part of the players file that clarifies his or her reasons for playing this game. This statement should be reasonably truthful, and may be freely updated as the game progresses.
 
