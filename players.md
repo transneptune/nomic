@@ -1,4 +1,4 @@
-- Kit La Touche <kit.la.t@gmail.com> (22pts)
+- Kit La Touche <kit.la.t@gmail.com> (36pts)
     -  **Statement of Purpose**
         
         I'm intending to practice good git discipline, the use of git on non-code projects, play a game I've long known about and never played, think about government and how it relates to win conditions, and also explore long-scale sustainable systems and the utility of constant continuing legislation.
