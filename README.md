@@ -29,8 +29,6 @@ If a rule is repealed and reenacted, it receives the number of the proposal to r
 
 **111.** If a rule-change as proposed is unclear, ambiguous, paradoxical, or destructive of play, or if it arguably consists of two or more rule-changes compounded or is an amendment that makes no difference, or if it is otherwise of questionable value, then the other players may suggest amendments or argue against the proposal before the vote. A reasonable time must be allowed for this debate. The proponent decides the final form in which the proposal is to be voted on and, unless the Judge has been asked to do so, also decides the time to end debate and vote.
 
-**112.** The state of affairs that constitutes winning may not be altered from achieving n points to any other state of affairs. The magnitude of n and the means of earning points may be changed, and rules that establish a winner when play cannot continue may be enacted and (while they are mutable) be amended or repealed.
-
 **113.** A player always has the option to forfeit the game rather than continue to play or incur a game penalty. No penalty worse than losing, in the judgment of the player to incur it, may be imposed.
 
 **114.** There must always be at least one mutable rule. The adoption of rule-changes must never become completely impermissible.
@@ -40,6 +38,8 @@ If a rule is repealed and reenacted, it receives the number of the proposal to r
 **116.** Whatever is not prohibited or regulated by a rule is permitted and unregulated, with the sole exception of changing the rules, which is permitted only when a rule or set of rules explicitly or implicitly permits it.
 
 ## Mutable Rules
+
+**112.** The state of affairs that constitutes winning may not be altered from achieving n points to any other state of affairs. The magnitude of n and the means of earning points may be changed, and rules that establish a winner when play cannot continue may be enacted and (while they are mutable) be amended or repealed.
 
 **201.** Players shall alternate in clockwise order, taking one whole turn apiece. Turns may not be skipped or passed, and parts of turns may not be omitted. All players begin with zero points.
 
@@ -90,3 +90,7 @@ This rule takes precedence over every other rule determining the winner.
 ## Rule Changes
 
 **301.** WHEREAS we are using GitHub to track our rules, and WHEREAS Git is really awesome, rules may be moved and renumbered in this document so as to make the current form of the document read easily and coherently. This will not risk losing any historical information, while increasing legibility.
+
+**302.** The winning number of points in rule **208** shall be raised to 100,000 points.
+
+**303.** Rule **112** shall be made mutable.
