@@ -39,10 +39,6 @@ If a rule is repealed and reenacted, it receives the number of the proposal to r
 
 ## Mutable Rules
 
-**303.** The state of affairs that constitutes winning may not be altered from achieving n points to any other state of affairs. The magnitude of n and the means of earning points may be changed, and rules that establish a winner when play cannot continue may be enacted and (while they are mutable) be amended or repealed.
-
-(Formerly Rule **112**.)
-
 **201.** Players shall alternate in clockwise order, taking one whole turn apiece. Turns may not be skipped or passed, and parts of turns may not be omitted. All players begin with zero points.
 
 In mail and computer games, players shall alternate in alphabetical order by surname.
@@ -94,3 +90,5 @@ This rule takes precedence over every other rule determining the winner.
 **305.** In order to encourage less conservative proposed rules, rule **206** is repealed.
 
 **306.** When a rule is entered into the record improperly or no longer has an effect, any player may make a motion (filed as an issue in Github), at any time, at most once per rule, to have that rule removed. Each player is required to vote on each motion. If the motion passes unanimously, then the rule may be struck from the record without a vote.
+
+**307.** In order to allow more flexible conceptions of "winning" and ensure the long-term health of the game, rule **303** (formerly **112**) is repealed.
