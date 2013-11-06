@@ -59,9 +59,7 @@ In mail and computer games, instead of throwing a die, players subtract 291 from
 
 **207.** Each player always has exactly one vote.
 
-**208.** The winner is the first player to achieve 100 (positive) points.
-
-In mail and computer games, the winner is the first player to achieve 200 (positive) points.
+**208.** The winner is the first player to achieve 100,000 points.
 
 **209.** At no time may there be more than 25 mutable rules.
 
