@@ -94,3 +94,5 @@ This rule takes precedence over every other rule determining the winner.
 **302.** The winning number of points in rule **208** shall be raised to 100,000 points.
 
 **303.** Rule **112** shall be made mutable.
+
+**304.** In order to build the best rules possible, each player shall enter a statement of purpose into the repository as part of the players file that clarifies his or her reasons for playing this game. This statement should be reasonably truthful, and may be freely updated as the game progresses.
