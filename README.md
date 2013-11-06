@@ -88,3 +88,7 @@ New Judges are not bound by the decisions of old Judges. New Judges may, however
 **213.** If the rules are changed so that further play is impossible, or if the legality of a move cannot be determined with finality, or if by the Judge's best reasoning, not overruled, a move appears equally legal and illegal, then the first player unable to complete a turn is the winner.
 
 This rule takes precedence over every other rule determining the winner.
+
+## Rule Changes
+
+**301.** WHEREAS we are using GitHub to track our rules, and WHEREAS Git is really awesome, rules may be moved and renumbered in this document so as to make the current form of the document read easily and coherently. This will not risk losing any historical information, while increasing legibility.
