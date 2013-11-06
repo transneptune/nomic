@@ -96,3 +96,5 @@ This rule takes precedence over every other rule determining the winner.
 **304.** In order to build the best rules possible, each player shall enter a statement of purpose into the repository as part of the players file that clarifies his or her reasons for playing this game. This statement should be reasonably truthful, and may be freely updated as the game progresses.
 
 **305.** In order to encourage less conservative proposed rules, rule **206** is repealed.
+
+**306.** When a rule is entered into the record improperly or no longer has an effect, any player may make a motion (filed as an issue in Github), at any time, at most once per rule, to have that rule removed. Each player is required to vote on each motion. If the motion passes unanimously, then the rule may be struck from the record without a vote.
