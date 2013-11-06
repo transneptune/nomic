@@ -55,8 +55,6 @@ In mail and computer games, instead of throwing a die, players subtract 291 from
 
 **205.** An adopted rule-change takes full effect at the moment of the completion of the vote that adopted it.
 
-**206.** When a proposed rule-change is defeated, the player who proposed it loses 10 points.
-
 **207.** Each player always has exactly one vote.
 
 **208.** The winner is the first player to achieve 100,000 points.
@@ -96,3 +94,5 @@ This rule takes precedence over every other rule determining the winner.
 **303.** Rule **112** shall be made mutable.
 
 **304.** In order to build the best rules possible, each player shall enter a statement of purpose into the repository as part of the players file that clarifies his or her reasons for playing this game. This statement should be reasonably truthful, and may be freely updated as the game progresses.
+
+**305.** In order to encourage less conservative proposed rules, rule **206** is repealed.
