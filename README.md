@@ -94,7 +94,8 @@ This rule takes precedence over every other rule determining the winner.
 **307.** In order to allow more flexible conceptions of "winning" and ensure the long-term health of the game, rule **303** (formerly **112**) is repealed.
 
 ## 308. The Act Act
-### Statement of Purpose: To provide the ability to enact legislation that is larger than a single rule, to facilitate quick changes, and to allow people to fully consider the impact of a set of rules.
+**Statement of Purpose:**
+*To provide the ability to enact legislation that is larger than a single rule, to facilitate quick changes, and to allow people to fully consider the impact of a set of rules.*
 
 1. Where it conflicts, this rule supercedes rule **202**.
 
