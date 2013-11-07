@@ -93,20 +93,21 @@ This rule takes precedence over every other rule determining the winner.
 
 **307.** In order to allow more flexible conceptions of "winning" and ensure the long-term health of the game, rule **303** (formerly **112**) is repealed.
 
-**308.** Where it conflicts, this rule supercedes rule **202**.
+## 308. The Act Act
+### Statement of Purpose: To provide the ability to enact legislation that is larger than a single rule, to facilitate quick changes, and to allow people to fully consider the impact of a set of rules.
 
-A rule may enact, repeal or amend an act. An act is a set of interdependent rules with a name and a statement of purpose.
+1. Where it conflicts, this rule supercedes rule **202**.
 
-Acts are written into this document as sections.
+2. A rule may enact, repeal or amend an act. An act is a set of interdependent rules with a name and a statement of purpose.
 
-Each rule of an act is assigned a paragraph number. For purposes of precedence, all provisions of an act share the rule number of the act. When this is insufficient to determine precedence, the paragraph number is used instead of the rule number.
+3. Acts are written into this document as sections.
 
-A rule which amends an act changes the rule number of the entire act in the same way that a non-act rule would change a non-act rule.
+4. Each rule of an act is assigned a paragraph number. For purposes of precedence, all provisions of an act share the rule number of the act. When this is insufficient to determine precedence, the paragraph number is used instead of the rule number.
 
-For purposes of scoring, none of the rules of an act are scored, but the rule which enacts, repeals, or amends an act is scored as normal.
+5. A rule which amends an act changes the rule number of the entire act in the same way that a non-act rule would change a non-act rule.
 
-Acts may not contain rules that conflict with its statement of purpose. 
+6. For purposes of scoring, none of the rules of an act are scored, but the rule which enacts, repeals, or amends an act is scored as normal.
 
-Acts and the rules within an act can never be immutable.
+7. Acts may not contain rules that conflict with its statement of purpose. 
 
-Once this rule passes, this rule will be represented as an act with the same rule number as the rule number enacting it, with paragraphs corresponding to every line except this one. The title of this act will be "The Act Act". The statement of purpose for the act will be. The title of this act will be "The Act Act". The statement of purpose for the act will be "To provide the ability to enact legislation that is larger than a single rule, to facilitate quick changes, and to allow people to fully consider the impact of a set of rules."
+8. Acts and the rules within an act can never be immutable.
