@@ -92,3 +92,21 @@ This rule takes precedence over every other rule determining the winner.
 **306.** When a rule is entered into the record improperly or no longer has an effect, any player may make a motion (filed as an issue in Github), at any time, at most once per rule, to have that rule removed. Each player is required to vote on each motion. If the motion passes unanimously, then the rule may be struck from the record without a vote.
 
 **307.** In order to allow more flexible conceptions of "winning" and ensure the long-term health of the game, rule **303** (formerly **112**) is repealed.
+
+**308.** Where it conflicts, this rule supercedes rule **202**.
+
+A rule may enact, repeal or amend an act. An act is a set of interdependent rules with a name and a statement of purpose.
+
+Acts are written into this document as sections.
+
+Each rule of an act is assigned a paragraph number. For purposes of precedence, all provisions of an act share the rule number of the act. When this is insufficient to determine precedence, the paragraph number is used instead of the rule number.
+
+A rule which amends an act changes the rule number of the entire act in the same way that a non-act rule would change a non-act rule.
+
+For purposes of scoring, none of the rules of an act are scored, but the rule which enacts, repeals, or amends an act is scored as normal.
+
+Acts may not contain rules that conflict with its statement of purpose. 
+
+Acts and the rules within an act can never be immutable.
+
+Once this rule passes, this rule will be represented as an act with the same rule number as the rule number enacting it, with paragraphs corresponding to every line except this one. The title of this act will be "The Act Act". The statement of purpose for the act will be. The title of this act will be "The Act Act". The statement of purpose for the act will be "To provide the ability to enact legislation that is larger than a single rule, to facilitate quick changes, and to allow people to fully consider the impact of a set of rules."
