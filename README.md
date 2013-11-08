@@ -94,7 +94,6 @@ This rule takes precedence over every other rule determining the winner.
 **307.** In order to allow more flexible conceptions of "winning" and ensure the long-term health of the game, rule **303** (formerly **112**) is repealed.
 
 ## 308. The Act Act
-**Statement of Purpose:**
 *To provide the ability to enact legislation that is larger than a single rule, to facilitate quick changes, and to allow people to fully consider the impact of a set of rules.*
 
 1. Where it conflicts, this rule supercedes rule **202**.
@@ -112,3 +111,14 @@ This rule takes precedence over every other rule determining the winner.
 7. Acts may not contain rules that conflict with its statement of purpose. 
 
 8. Acts and the rules within an act can never be immutable.
+
+## 309. The New Player Registration Act
+*To provide incentives and structures for bringing new players in to the game.*
+
+1. When a person wishes to join this game of Nomic, they shall make that desire clear to the existing players. If an existing player has recruited them for the game, they shall also make that clear, and it shall be noted in that players entry in the player record. All existing players will then vote on whether that person shall become a player. This vote shall pass if and only if it is unanimously in favor.
+
+2. All players shall have the date of their joining entered into the player record. All players currently playing at the time of this act's passage shall have their join date listed as the date of the passage of this act.
+
+3. New players shall be inserted into the player record and turn order acording to the alphabetical listing of their surname.
+
+4. New players shall start with a number of points equal to the average of the points of the current players.
