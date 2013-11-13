@@ -1,7 +1,7 @@
 - Austin Bookheimer <zen.paladin@gmail.com> (62.5pts) Joined 2013-11-09
     - **Statement of Purpose**
     
-      *enter statement of purpose here*
+      I plan to practice as much as possible with git and develop my skills with version control. Git also interests me as a roleplaying device for Swords, given the uploaded shared consciousness that is part of its setting. I want to know it's possible to make a game that has an editable shared fiction, central document or rules without being merely a novelty. 
 
 - Kit La Touche <kit.la.t@gmail.com> (70pts) Joined 2013-11-07
     -  **Statement of Purpose**
