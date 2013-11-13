@@ -122,3 +122,17 @@ This rule takes precedence over every other rule determining the winner.
 3. New players shall be inserted into the player record and turn order acording to the alphabetical listing of their surname.
 
 4. New players shall start with a number of points equal to the average of the points of the current players.
+
+## 310. Continuance of Government Act
+
+*In order to ensure continuance of game play by providing limits to lengths of turns and discussions, and incentives to prompt play.*
+
+1. Where it conflicts, this rule supercedes rule **201** and **202**.
+
+2. At any given time, the game may be in session or out of session. A game is in session on any week day that is not a federal holiday in the United States or Canada. A game day starts at 15:00 GMT and ends the following day at the same time.
+
+3. When the game is in session, players must take turns promptly. A player must submit their rule changes by the end of the subsequent day of having received their turn. If they do not, any player may make a motion that play continue. If this happens, the active player forfeits their turn and play passes to the next player according to the rules that govern player order.
+
+4. If a rule change is submitted promptly, then the other players have another game day in which to discuss or propose amendments. If this limit is exceeded, the active player may make a motion for continuance. If they do, the proposed rule is abandoned, but they may score as many points as they would if the rule had passed.
+
+5. On days when the game is out of session, rules about promptness are suspended as if they did not exist. If a player received their turn on Friday, they have until the end of Monday to submit their turn. Votes and rule proposals may only occur on game days.
