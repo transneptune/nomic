@@ -136,3 +136,5 @@ This rule takes precedence over every other rule determining the winner.
 4. If a rule change is submitted promptly, then the other players have another game day in which to discuss or propose amendments. If this limit is exceeded, the active player may make a motion for continuance. If they do, the proposed rule is abandoned, but they may score as many points as they would if the rule had passed.
 
 5. On days when the game is out of session, rules about promptness are suspended as if they did not exist. If a player received their turn on Friday, they have until the end of Monday to submit their turn. Votes and rule proposals may only occur on game days.
+
+**311.** Every time John joins Kit at the gym for a period of exercise not less than thirty (30) minutes, he (John) gains ten (10) points, up to once per calendar day.
