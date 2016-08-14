@@ -45,7 +45,7 @@ In mail and computer games, players shall alternate in alphabetical order by sur
 
 **202.** One turn consists of two parts in this order: (1) proposing one rule-change and having it voted on, and (2) throwing one die once and adding the number of points on its face to one's score.
 
-In mail and computer games, instead of throwing a die, players subtract 291 from the ordinal number of their proposal and multiply the result by the fraction of favorable votes it received, rounded to the nearest integer. (This yields a number between 0 and 10 for the first player, with the upper limit increasing by one each turn; more points are awarded for more popular proposals.)
+In mail and computer games, instead of throwing a die, players subtract 300 from the ordinal number of their proposal and multiply the result by the fraction of favorable votes it received, rounded to the nearest integer. (This yields a number between 0 and 10 for the first player, with the upper limit increasing by one each turn; more points are awarded for more popular proposals.)
 
 **203.** A rule-change is adopted if and only if the vote is unanimous among the eligible voters. If this rule is not amended by the end of the second complete circuit of turns, it automatically changes to require only a simple majority.
 
@@ -138,3 +138,5 @@ This rule takes precedence over every other rule determining the winner.
 5. On days when the game is out of session, rules about promptness are suspended as if they did not exist. If a player received their turn on Friday, they have until the end of Monday to submit their turn. Votes and rule proposals may only occur on game days.
 
 **311.** Every time John joins Kit at the gym for a period of exercise not less than thirty (30) minutes, he (John) gains ten (10) points, up to once per calendar day.
+
+**312.** Scoring is amended to simplify calculation. Instead of subtracting 291, we subtract 300, which will be much easier to track.
